@@ -1,6 +1,6 @@
 ## 🎯 flutter_preview_seekbar
 ```
-flutter_preview_seekbar is a reusable Flutter video/audio seek bar library that provides a smooth custom progress bar with animated thumb, buffered progress indicator and floating preview bubble (YouTube style).
+flutter_preview_seekbar is a reusable Flutter video/audio seek bar library that provides a smooth custom progress bar with animated thumb, buffered progress indicator and floating preview bubble.
 
 It helps developers easily integrate advanced media seeking UI without writing complex gesture handling, custom painter logic or animation code.
 
@@ -28,7 +28,7 @@ You can use it with any video player or audio player to create modern streaming 
 
 ## 📦 Installation
 
-Add dependency in your **pubspec.yaml**
+Add dependency in your pubspec.yaml.
 ```
 dependencies:
 flutter_preview_seekbar:
