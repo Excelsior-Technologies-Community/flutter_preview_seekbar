@@ -32,7 +32,7 @@ Add dependency in your pubspec.yaml.
 ```
 dependencies:
 flutter_preview_seekbar:
-path: ../flutter_preview_seekbar
+path: https://github.com/Excelsior-Technologies-Community/flutter_preview_seekbar/tree/stage
 ```
 Then run:
 ```
