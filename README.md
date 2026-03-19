@@ -43,9 +43,7 @@ flutter pub get
 
 ## 🎬 Preview
 
-```
-file:///D:/excelsior_technologies/Internship/March_2026/outputs/seekbar.mp4
-```
+https://github.com/user-attachments/assets/19ccb9cc-5bed-4266-b561-3c5a67da7f90
 
 ---
 
