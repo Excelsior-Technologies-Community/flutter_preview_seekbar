@@ -67,10 +67,10 @@ flutter_preview_seekbar/
 │ │ │
 │ │ └─ utils.dart
 │ │ // Duration formatting helper
-│
-├─ example/
+│ │
 │ └─ main.dart
 │ // Demo app using the seekbar with video player
+│ 
 │
 ├─ README.md
 │
